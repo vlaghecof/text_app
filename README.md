@@ -3,8 +3,8 @@
 A new Flutter project.
 
 
-![login ](https://github.com/vlaghecof/text_app/blob/master/Screenshot_1600004240.png )
-![in_app_look](https://github.com/vlaghecof/text_app/blob/master/Screenshot_1600004393.png)
+![login ]<img src="https://github.com/vlaghecof/text_app/blob/master/Screenshot_1600004240.png" height="500em"  />;
+![in_app_look]<img src="https://github.com/vlaghecof/text_app/blob/master/Screenshot_1600004393.png" height="500em" />
  
 ## Getting Started
 
